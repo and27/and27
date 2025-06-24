@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I'm a front-end developer specializing in JavaScript and React. I love creating digital products and helping businesses transition to digital platforms.
+I'm a software developer specializing in JavaScript ecosystem. I love creating digital products and helping businesses transition to digital platforms.
 
 ## 🛠️ Skills
 - JavaScript
