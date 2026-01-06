@@ -25,9 +25,6 @@ Redux · React Native · Accessibility (WCAG)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=and27&show_icons=true)
 
-## Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=and27&layout=compact" />
-
 📍 Ecuador  
-🔗 andresbanda.com  
-🔗 LinkedIn
+🌐 [andresbanda.com](https://andresbanda.com)
+
