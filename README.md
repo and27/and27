@@ -1,22 +1,33 @@
-# Hi there 👋
+# Hi there 👋  
+I'm Andrés Banda
 
-## 🚀 About Me
-I'm a software developer specializing in JavaScript ecosystem. I love creating digital products and helping businesses transition to digital platforms.
+## About Me
+Senior Front-End Engineer with 5+ years of experience working mainly with React and TypeScript.
 
-## 🛠️ Skills
-- JavaScript
-- React
-- Tailwind CSS
-- TypeScript
+I specialize in building scalable, accessible, and maintainable front-end systems, with a strong focus on reusable UI components, performance, and clean architecture.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=and27&show_icons=true&theme=radical)
+## Focus Areas
+- Scalable React architectures
+- Reusable UI components and shared foundations
+- Accessibility (WCAG, keyboard navigation, screen readers)
+- Performance optimization and partial UI updates
+- TypeScript-first development
 
-## 🌟 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=and27&size_weight=0.3&count_weight=0.6&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+## Tech Stack
+React · TypeScript · Tailwind CSS · Storybook  
+Redux · React Native · Accessibility (WCAG)
 
-## 🏆 Achievements
-- Completed 50+ projects
-- Hosted workshops on AI and automation
-- Fluent in 3 languages
+## Featured Work
+- **@andreu/ui** – Personal reusable UI foundation with accessibility-first components
+- **Mundo** – Complex front-end product with rich UI states
+- **Emotion Trace** – UX-focused application for emotional tracking
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=and27&show_icons=true)
+
+## Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=and27&layout=compact" />
+
+📍 Ecuador  
+🔗 andresbanda.com  
+🔗 LinkedIn
